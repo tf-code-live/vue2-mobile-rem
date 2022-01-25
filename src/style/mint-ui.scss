@@ -1,0 +1,13 @@
+.mint-tabbar {
+    border-top: 1px solid #E4E7ED;
+    .mint-tab-item {
+        padding: 16px;
+        .mint-tab-item-label {
+            font-size: 14px;
+        }
+    }
+    .mint-tab-item.is-selected {
+        background-color: #edf2f7;
+        color: #1fb860;
+    }
+}
